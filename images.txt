@@ -1,1 +1,2 @@
-alpine:latest
+tailscale/tailscale
+stilleshan/frps
